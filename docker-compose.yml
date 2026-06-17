@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: amfi_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: amfi
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: amfi_pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@amfi.local
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+
+  backend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.backend
+    container_name: amfi_backend
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://postgres:postgres@db:5432/amfi
+      - LOG_LEVEL=INFO
+      - AMFI_NAV_URL=https://www.amfiindia.com/spages/NAVAll.txt
+      - NOTIFICATION_CHANNEL=console
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+  scheduler:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.scheduler
+    container_name: amfi_scheduler
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://postgres:postgres@db:5432/amfi
+      - LOG_LEVEL=INFO
+      - AMFI_NAV_URL=https://www.amfiindia.com/spages/NAVAll.txt
+      - NOTIFICATION_CHANNEL=console
+    depends_on:
+      - db
+
+volumes:
+  pgdata:

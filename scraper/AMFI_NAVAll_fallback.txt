@@ -1,0 +1,137 @@
+Open Ended Schemes ( Equity Scheme - Large Cap Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+119551;INF179K01844;-;HDFC Index Fund - NIFTY 50 Plan - Growth;384.5153;22-May-2026;361.4443;384.5153;Nifty 50 TRI;Very High;Very High;12.55;13.55;13.20;0.12;0.45;5400.12;Equity
+119552;INF179K01851;INF179K01869;HDFC Index Fund - NIFTY 50 Plan - Dividend;156.2410;22-May-2026;146.8665;156.2410;Nifty 50 TRI;Very High;Very High;12.55;13.55;13.20;0.12;0.45;5400.12;Equity
+120150;INF179K01912;-;HDFC Top 100 Fund - Direct Growth;912.4500;22-May-2026;857.7030;912.4500;Nifty 100 TRI;Very High;Very High;13.20;14.25;13.50;0.18;0.51;25814.81;Equity
+120151;INF179K01920;INF179K01938;HDFC Top 100 Fund - Direct Dividend;64.3200;22-May-2026;60.4608;64.3200;Nifty 100 TRI;Very High;Very High;13.20;14.25;13.50;0.18;0.51;25814.81;Equity
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+122639;INF200K01UT1;-;SBI Bluechip Fund - Direct Growth;84.5120;22-May-2026;79.4413;84.5120;Nifty 100 TRI;Very High;Very High;12.80;13.90;13.50;0.10;0.42;41500.56;Equity
+122640;INF200K01UU9;INF200K01UV7;SBI Bluechip Fund - Direct Dividend;34.1200;22-May-2026;32.0728;34.1200;Nifty 100 TRI;Very High;Very High;12.80;13.90;13.50;0.10;0.42;41500.56;Equity
+119600;INF200K01VR7;-;SBI Nifty Index Fund - Growth;192.4500;22-May-2026;180.9030;192.4500;Nifty 50 TRI;Very High;Very High;12.45;13.45;13.20;0.08;0.38;4800.22;Equity
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120551;INF109K01722;-;ICICI Prudential Bluechip Fund - Direct Growth;98.3400;22-May-2026;92.4396;98.3400;Nifty 100 TRI;Very High;Very High;13.10;14.15;13.50;0.15;0.48;52100.45;Equity
+120552;INF109K01730;INF109K01748;ICICI Prudential Bluechip Fund - Direct Dividend;45.2100;22-May-2026;42.4974;45.2100;Nifty 100 TRI;Very High;Very High;13.10;14.15;13.50;0.15;0.48;52100.45;Equity
+
+Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+119782;INF179K01LQ5;-;HDFC Mid-Cap Opportunities Fund - Growth;142.1500;22-May-2026;133.6210;142.1500;Nifty Midcap 150 TRI;Very High;Very High;15.80;16.95;14.80;0.25;0.58;65420.12;Equity
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120230;INF200K01WZ4;-;SBI Magnum Midcap Fund - Growth;210.4500;22-May-2026;197.8230;210.4500;Nifty Midcap 150 TRI;Very High;Very High;14.50;15.65;14.80;0.12;0.41;18200.45;Equity
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120610;INF109K01YT4;-;ICICI Prudential Midcap Fund - Growth;185.3200;22-May-2026;174.2008;185.3200;Nifty Midcap 150 TRI;Very High;Very High;14.80;15.90;14.80;0.15;0.44;12462.79;Equity
+
+Kotak Mahindra Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121450;INF174K01LS8;-;Kotak Emerging Equity Fund - Growth;94.2500;22-May-2026;88.5950;94.2500;Nifty Midcap 150 TRI;Very High;Very High;14.20;15.30;14.80;0.08;0.38;42300.65;Equity
+
+Open Ended Schemes ( Equity Scheme - Small Cap Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121890;INF179K01ST4;-;HDFC Small Cap Fund - Growth;124.6200;22-May-2026;117.1428;124.6200;Nifty Smallcap 250 TRI;Very High;Very High;17.50;18.85;16.20;0.31;0.62;29100.22;Equity
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+122100;INF200K01YA2;-;SBI Small Cap Fund - Growth;162.1500;22-May-2026;152.4210;162.1500;Nifty Smallcap 250 TRI;Very High;Very High;18.20;19.50;16.20;0.35;0.65;28500.12;Equity
+
+Axis Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120847;INF846K01DP4;-;Axis Small Cap Fund - Direct Growth;77.1804;22-May-2026;72.5496;77.1804;Nifty Smallcap 250 TRI;Very High;Very High;16.85;18.10;16.20;0.22;0.52;21500.85;Equity
+120848;INF846K01DQ2;INF846K01DR0;Axis Small Cap Fund - Direct Dividend;38.4500;22-May-2026;36.1430;38.4500;Nifty Smallcap 250 TRI;Very High;Very High;16.85;18.10;16.20;0.22;0.52;21500.85;Equity
+
+Nippon India Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+122550;INF204K01LE9;-;Nippon India Small Cap Fund - Growth;145.2300;22-May-2026;136.5162;145.2300;Nifty Smallcap 250 TRI;Very High;Very High;19.10;20.45;16.20;0.42;0.72;51200.40;Equity
+
+Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
+Parag Parikh Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120123;INF879O01026;-;Parag Parikh Flexi Cap Fund - Direct Growth;78.5132;22-May-2026;73.8024;78.5132;Nifty 500 TRI;Very High;Very High;15.20;16.45;13.26;0.32;0.65;64396.01;Equity
+120124;INF879O01034;INF879O01042;Parag Parikh Flexi Cap Fund - Direct Dividend;54.1200;22-May-2026;50.8728;54.1200;Nifty 500 TRI;Very High;Very High;15.20;16.45;13.26;0.32;0.65;64396.01;Equity
+
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120250;INF179K01UN1;-;HDFC Flexi Cap Fund - Growth;1450.2500;22-May-2026;1363.2350;1450.2500;Nifty 500 TRI;Very High;Very High;14.80;15.95;13.26;0.24;0.56;58200.12;Equity
+
+Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120420;INF200K01TB7;-;SBI Healthcare Opportunities Fund - Growth;345.1200;22-May-2026;324.4128;345.1200;Nifty Healthcare TRI;Very High;Very High;13.50;14.60;13.10;0.12;0.42;2400.55;Equity
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+120820;INF109K01UP6;-;ICICI Prudential Technology Fund - Growth;162.4500;22-May-2026;152.7030;162.4500;Nifty IT TRI;Very High;Very High;12.80;13.95;12.40;0.08;0.38;11200.45;Equity
+
+Nippon India Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121920;INF204K01QA4;-;Nippon India Power & Infra Fund - Growth;295.1200;22-May-2026;277.4128;295.1200;Nifty Infrastructure TRI;Very High;Very High;15.20;16.40;14.10;0.22;0.52;4120.30;Equity
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+119250;INF179K01GY8;-;HDFC Liquid Fund - Growth;4610.2500;22-May-2026;4333.6350;4610.2500;Crisil Liquid Debt Index;Low to Moderate;Low;6.10;6.75;5.80;0.25;0.55;48200.12;Debt
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+119350;INF200K01HN1;-;SBI Liquid Fund - Growth;3740.1200;22-May-2026;3515.7128;3740.1200;Crisil Liquid Debt Index;Low to Moderate;Low;6.05;6.65;5.80;0.22;0.51;64100.85;Debt
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+119450;INF109K01LO7;-;ICICI Prudential Liquid Fund - Growth;3420.5600;22-May-2026;3215.3264;3420.5600;Crisil Liquid Debt Index;Low to Moderate;Low;6.15;6.80;5.80;0.28;0.58;52100.22;Debt
+
+Open Ended Schemes ( Hybrid Scheme - Balanced Advantage )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+122880;INF179K01XS5;-;HDFC Balanced Advantage Fund - Growth;410.2500;22-May-2026;385.6350;410.2500;Nifty 50 Hybrid Composite Index;Moderately High;Moderate;11.20;12.35;10.50;0.18;0.48;88400.12;Hybrid
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+122990;INF109K01TR8;-;ICICI Prudential Balanced Advantage Fund - Growth;64.3200;22-May-2026;60.4608;64.3200;Nifty 50 Hybrid Composite Index;Moderately High;Moderate;11.50;12.60;10.50;0.22;0.52;58200.45;Hybrid
+
+Open Ended Schemes ( Other Schemes - Index Funds )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121200;INF179K01KF8;-;HDFC Nifty 50 Index Fund - Growth;42.1500;22-May-2026;39.6210;42.1500;Nifty 50 TRI;Very High;Very High;12.20;13.20;13.20;0.05;0.35;12400.15;Equity
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121300;INF200K01UP3;-;SBI Nifty 50 Index Fund - Growth;38.4500;22-May-2026;36.1430;38.4500;Nifty 50 TRI;Very High;Very High;12.15;13.15;13.20;0.02;0.32;14500.22;Equity
+
+UTI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+121400;INF227K01CX1;-;UTI Nifty 50 Index Fund - Growth;152.1200;22-May-2026;142.9928;152.1200;Nifty 50 TRI;Very High;Very High;12.30;13.30;13.20;0.08;0.38;18500.55;Equity
+
+Close Ended Schemes ( Equity Scheme - Value Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+130100;INF179K01CE7;-;HDFC Equity Savings Fund - Close Ended - Growth;24.1500;22-May-2026;22.8010;24.1500;BSE 500 TRI;Very High;Very High;11.20;12.10;11.80;-0.05;0.15;520.12;Equity
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+130200;INF200K01TE5;-;SBI Tax Advantage Fund - Series III - Growth;18.5200;22-May-2026;17.2105;18.5200;BSE 500 TRI;Very High;Very High;12.10;13.20;12.80;0.02;0.22;610.45;Equity
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+130300;INF109K01VE8;-;ICICI Prudential Value Fund - Series 15 - Growth;15.3200;22-May-2026;14.1250;15.3200;Nifty 500 TRI;Very High;Very High;11.50;12.80;12.00;-0.08;0.18;480.20;Equity
+
+Interval Fund Schemes ( Debt Scheme - Interval Fund )
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+140100;INF179K01IF2;-;HDFC Quarterly Interval Fund - Growth;11.2300;22-May-2026;10.8205;11.2300;Crisil Liquid Debt Index;Low;Low;5.80;6.20;5.90;0.10;0.35;120.55;Debt
+
+SBI Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+140200;INF200K01IA4;-;SBI Monthly Interval Fund - Plan A - Growth;12.4500;22-May-2026;11.9520;12.4500;Crisil Liquid Debt Index;Low;Low;5.50;6.00;5.90;0.05;0.30;95.22;Debt
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date;Regular NAV;Direct NAV;Benchmark Name;Scheme Riskometer;Benchmark Riskometer;Regular CAGR 5Y;Direct CAGR 5Y;Benchmark CAGR 5Y;Regular Info Ratio;Direct Info Ratio;Daily AUM;Asset Class
+140300;INF109K01IE2;-;ICICI Prudential Interval Fund - Quarterly Plan B - Growth;10.9500;22-May-2026;10.5120;10.9500;Crisil Liquid Debt Index;Low;Low;5.60;6.10;5.90;0.08;0.32;110.15;Debt

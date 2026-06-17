@@ -1,0 +1,8 @@
+from database.repositories.fund_house_repo import FundHouseRepository
+from database.repositories.scheme_repo import SchemeRepository
+from database.repositories.nav_repo import NavDailyRepository
+from database.repositories.allocation_repo import AssetAllocationRepository
+from database.repositories.analytics_repo import SchemeAnalyticsRepository
+from database.repositories.user_repo import UserRepository
+from database.repositories.holding_repo import HoldingRepository
+

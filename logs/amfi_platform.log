@@ -3491,3 +3491,142 @@ WHERE holdings.scheme_id IN (?, ?, ?)]
 (Background on this error at: https://sqlalche.me/e/20/e3q8) | Duration: 62.52ms
 2026-06-17 14:55:43 | INFO    | database.engine:<module>:18 - Initializing database engine on: sqlite+aiosqlite:///./amfi.db
 2026-06-17 14:56:24 | INFO    | database.engine:<module>:18 - Initializing database engine on: sqlite+aiosqlite:///./amfi.db
+2026-06-17 14:56:33 | INFO    | api.middleware:dispatch:19 - --> POST /api/v1/portfolios/overlap
+2026-06-17 14:56:33 | INFO    | api.middleware:dispatch:24 - <-- POST /api/v1/portfolios/overlap | Status: 200 | Duration: 9.33ms
+2026-06-17 14:58:00 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/pipeline/status
+2026-06-17 14:58:00 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/pipeline/status | Status: 200 | Duration: 1.16ms
+2026-06-17 14:58:00 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:58:00 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:58:00 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 12.52ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:58:43 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?limit=100
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 2.52ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?limit=100
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 1.77ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 17.60ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 14:58:43 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 600.55ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 14:58:43 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/compare?ids=120848%2C120847
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/compare | Status: 200 | Duration: 1.33ms
+2026-06-17 14:58:43 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/compare?ids=120848%2C120847
+2026-06-17 14:58:43 | INFO    | api.routers.compare:compare_funds:24 - Triggering comparison query for scheme IDs: 120848,120847
+2026-06-17 14:58:44 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/compare | Status: 200 | Duration: 104.66ms
+2026-06-17 14:58:44 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 618.27ms
+2026-06-17 14:58:44 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/compare?ids=120848%2C120847
+2026-06-17 14:58:44 | INFO    | api.routers.compare:compare_funds:24 - Triggering comparison query for scheme IDs: 120848,120847
+2026-06-17 14:58:44 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/compare | Status: 200 | Duration: 41.72ms
+2026-06-17 14:59:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:59:13 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:59:13 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 5.42ms
+2026-06-17 14:59:23 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:59:23 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:59:23 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 5.72ms
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:59:28 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/dashboard/overview
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/categories/summary
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/dashboard/overview | Status: 200 | Duration: 4.54ms
+2026-06-17 14:59:28 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/categories/summary | Status: 200 | Duration: 7.42ms
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/dashboard/overview
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/categories/summary
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/dashboard/overview | Status: 200 | Duration: 5.85ms
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 29.70ms
+2026-06-17 14:59:28 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/categories/summary | Status: 200 | Duration: 39.54ms
+2026-06-17 14:59:29 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 489.35ms
+2026-06-17 14:59:37 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?q=sbi&limit=5
+2026-06-17 14:59:37 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 1.34ms
+2026-06-17 14:59:37 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?q=sbi&limit=5
+2026-06-17 14:59:37 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=5, category=None, q=sbi, scheme_type=None, asset_class=None
+2026-06-17 14:59:37 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 62.36ms
+2026-06-17 14:59:43 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 14:59:43 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 14:59:43 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 5.08ms
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?q=hdf&limit=5
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 0.60ms
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?q=hdf&limit=5
+2026-06-17 14:59:49 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=5, category=None, q=hdf, scheme_type=None, asset_class=None
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 61.11ms
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?q=hdfc&limit=5
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 0.87ms
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?q=hdfc&limit=5
+2026-06-17 14:59:49 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=5, category=None, q=hdfc, scheme_type=None, asset_class=None
+2026-06-17 14:59:49 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 56.02ms
+2026-06-17 15:00:12 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?q=gro&limit=5
+2026-06-17 15:00:12 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 1.87ms
+2026-06-17 15:00:12 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?q=gro&limit=5
+2026-06-17 15:00:12 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=5, category=None, q=gro, scheme_type=None, asset_class=None
+2026-06-17 15:00:12 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 103.69ms
+2026-06-17 15:00:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:00:13 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:00:13 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 5.20ms
+2026-06-17 15:00:26 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/portfolios/overlap
+2026-06-17 15:00:26 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/portfolios/overlap | Status: 200 | Duration: 1.32ms
+2026-06-17 15:00:26 | INFO    | api.middleware:dispatch:19 - --> POST /api/v1/portfolios/overlap
+2026-06-17 15:00:26 | INFO    | api.middleware:dispatch:24 - <-- POST /api/v1/portfolios/overlap | Status: 200 | Duration: 6.76ms
+2026-06-17 15:00:37 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:00:37 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:00:37 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 7.86ms
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:00:39 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/dashboard/overview
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/categories/summary
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/dashboard/overview | Status: 200 | Duration: 5.80ms
+2026-06-17 15:00:39 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 37.80ms
+2026-06-17 15:00:39 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/categories/summary | Status: 200 | Duration: 71.19ms
+2026-06-17 15:00:40 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 587.28ms
+2026-06-17 15:00:50 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:00:50 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:00:50 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 7.61ms
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:06:23 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/dashboard/overview
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/categories/summary
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/dashboard/overview | Status: 200 | Duration: 6.19ms
+2026-06-17 15:06:23 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 21.52ms
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/categories/summary | Status: 200 | Duration: 39.51ms
+2026-06-17 15:06:23 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 444.24ms
+2026-06-17 15:07:20 | INFO    | api.middleware:dispatch:19 - --> GET /docs
+2026-06-17 15:07:20 | INFO    | api.middleware:dispatch:24 - <-- GET /docs | Status: 200 | Duration: 1.77ms
+2026-06-17 15:07:21 | INFO    | api.middleware:dispatch:19 - --> GET /openapi.json
+2026-06-17 15:07:21 | INFO    | api.middleware:dispatch:24 - <-- GET /openapi.json | Status: 200 | Duration: 91.99ms
+2026-06-17 15:10:06 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/pipeline/status
+2026-06-17 15:10:06 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/pipeline/status | Status: 200 | Duration: 1.27ms
+2026-06-17 15:10:06 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:10:06 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:10:06 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 7.64ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:13:32 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/dashboard/overview
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/categories/summary
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> OPTIONS /api/v1/funds?limit=100
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/dashboard/overview | Status: 200 | Duration: 4.86ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/categories/summary | Status: 200 | Duration: 5.82ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- OPTIONS /api/v1/funds | Status: 200 | Duration: 6.68ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 21.72ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/dashboard/overview
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/dashboard/overview | Status: 200 | Duration: 1.72ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/categories/summary
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 15:13:32 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/categories/summary | Status: 200 | Duration: 39.33ms
+2026-06-17 15:13:32 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 482.72ms
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/pipeline/status
+2026-06-17 15:14:13 | DEBUG   | api.routers.pipeline:get_pipeline_status:30 - Querying latest pipeline execution status...
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/dashboard/overview
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/categories/summary
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:19 - --> GET /api/v1/funds?limit=100
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/dashboard/overview | Status: 200 | Duration: 5.68ms
+2026-06-17 15:14:13 | DEBUG   | api.routers.funds:list_funds:30 - Listing funds with parameters limit=100, category=None, q=None, scheme_type=None, asset_class=None
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/pipeline/status | Status: 200 | Duration: 21.04ms
+2026-06-17 15:14:13 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/categories/summary | Status: 200 | Duration: 40.79ms
+2026-06-17 15:14:14 | INFO    | api.middleware:dispatch:24 - <-- GET /api/v1/funds | Status: 200 | Duration: 508.42ms
